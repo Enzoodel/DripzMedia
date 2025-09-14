@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e40af"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#g3)"/>
+  <g fill="#ffffff" opacity="0.12">
+    <circle cx="210" cy="290" r="200"/>
+    <rect x="800" y="820" width="280" height="280" rx="32"/>
+  </g>
+  <g font-family="Montserrat, Arial" fill="#FFFFFF" text-anchor="start">
+    <text x="80" y="200" font-weight="800" font-size="120">SMARTPHONE</text>
+    <text x="80" y="320" font-weight="600" font-size="56">#dripzhard</text>
+  </g>
+  <!-- corner logo -->
+  <g transform="translate(980,980) scale(0.12)">
+    <rect width="720" height="720" rx="120" fill="#ffffff" fill-opacity=".15"/>
+    <path d="M360 120 C280 220 240 300 240 370 a120 120 0 0 0 240 0 c0-70-40-150-120-250z" fill="#fff"/>
+  </g>
+</svg>
